@@ -1,0 +1,87 @@
+.custom-settings-header {
+    height: 70px !important;
+    font-size: 24px !important;
+    font-weight: 700 !important;
+}
+
+.custom-router-body {
+    margin-top: 10px;
+}
+
+.custom-home-header {
+    position: absolute !important;
+    top: 10px;
+    left: 8px;
+    background: transparent !important;
+    width: 80px !important;
+    height: 70px !important;
+    margin: 0 !important;
+    border-radius: 10px;
+}
+
+.custom-home-header:after {
+    content: "☰";
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.custom-home-header span {
+    display: none !important;
+}
+
+.custom-footer-main {
+    position: absolute !important;
+    top: 10px;
+    right: 8px;
+    background: transparent !important;
+    width: 80px !important;
+    height: 70px !important;
+    margin: 0 !important;
+}
+
+.custom-footer-main small {
+    display: none !important;
+}
+
+a[href="/settings"] {
+    right: 0 !important;
+}
+
+.custom-home-lessons {
+    margin-bottom: 10px !important;
+}
+
+.custom-home-daypicker-arrow {
+    width: 50px !important;
+}
+
+.date-container {
+    width: 110px !important;
+}
+
+.custom-footer-navigation {
+    right: 0 !important;
+}
+
+.custom-settings-option-name,
+.custom-settings-colorpicker-title {
+    font-weight: 600;
+    font-size: 18px !important;
+    margin: 10px;
+}
+
+.custom-settings-colorpicker-main {
+    height: 220px !important;
+}
+
+.custom-settings-option-main {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+
+.custom-settings-colorpicker-default {
+    height: 40px;
+    font-weight: 600;
+    font-size: 16px !important;
+}
