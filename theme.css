@@ -52,17 +52,12 @@ a[href="/settings"] {
     margin-bottom: 10px !important;
 }
 
-.custom-home-daypicker-main {
-    position: absolute !important;
-    left: calc(50vw - 115px);
-    display: block !important;
-    width: 230px !important;
-}
-
 .custom-home-daypicker-switcher {
     display: grid !important;
     grid-template-columns: 50px 130px 50px !important;
     width: 230px !important;
+    position: relative;
+    left: -30px;
 }
 
 .date-container .date {
