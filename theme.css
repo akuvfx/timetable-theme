@@ -113,7 +113,7 @@ a[href="/settings"] {
 
 .custom-debug-custom-css input[type="text"] {
     width: 100%;
-    margin: 0;
+    margin: 0 !important;
     font-family: monospace;
     background-color: rgba(255, 255, 255, 0.1) !important;
     border-radius: 20px !important;
