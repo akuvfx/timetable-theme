@@ -60,6 +60,10 @@ a[href="/settings"] {
     left: -30px;
 }
 
+.date-container {
+    display: block !important;
+}
+
 .date-container .date {
     opacity: 0.8;
 }
