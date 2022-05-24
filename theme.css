@@ -11,7 +11,6 @@
 
 .custom-home-header {
     position: absolute !important;
-    top: 10px;
     left: 8px;
     background: transparent !important;
     width: 80px !important;
@@ -22,7 +21,7 @@
 
 .custom-home-header:after {
     content: "☰";
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 100;
 }
 
@@ -32,7 +31,6 @@
 
 .custom-footer-main {
     position: absolute !important;
-    top: 10px;
     right: 8px;
     background: transparent !important;
     width: 80px !important;
@@ -141,6 +139,11 @@ a[href="/settings"] {
 .custom-debug-alert {
     border: 1px solid rgba(255, 26, 64, .5) !important;
     background: rgba(255, 26, 64, .2) !important;
+}
+
+.custom-footer-main,
+.custom-home-header {
+    top: -3px !important;
 }
 /*
 .custom-settings-colorpicker-picker:before {
