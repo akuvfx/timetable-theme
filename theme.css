@@ -171,3 +171,7 @@ a[href="/settings"] {
     opacity: 0.75;
     filter: brightness(0.6) contrast(1.2) saturate(0.5);
 }
+
+.custom-home-lessons-wrapper {
+    scroll-snap-stop: always;
+}
