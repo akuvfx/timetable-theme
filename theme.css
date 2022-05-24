@@ -51,18 +51,19 @@ a[href="/settings"] {
 .custom-home-lessons {
     margin-bottom: 10px !important;
 }
-
+/*
 .custom-home-daypicker-switcher {
     display: grid !important;
     grid-template-columns: 50px 130px 50px !important;
     width: 230px !important;
-    /*position: relative;
-    left: 0;*/
+    position: relative;
+    left: 0;
+}*/
+.custom-home-daypicker-switcher .btn {
+    width: 48px !important;
 }
-
 .date-container {
     width: 130px !important;
-    display: block !important;
 }
 
 .date-container .date {
