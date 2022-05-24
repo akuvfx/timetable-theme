@@ -57,7 +57,7 @@ a[href="/settings"] {
     grid-template-columns: 50px 130px 50px !important;
     width: 230px !important;
     position: relative;
-    left: -30px;
+    left: -20px;
 }
 
 .date-container {
