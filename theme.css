@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
+@import url('http://fonts.cdnfonts.com/css/nexa-bold');
 
 body {
-    font-family: 'proxima-nova', sans-serif !important;
+    font-family: 'Nexa', sans-serif !important;
 }
 
 .custom-debug-header,
