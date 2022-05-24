@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
+
+body {
+    font-family: 'proxima-nova', sans-serif !important;
+}
+
 .custom-debug-header,
 .custom-settings-header {
     margin-top: -10px !important;
