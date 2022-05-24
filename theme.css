@@ -145,26 +145,27 @@ a[href="/settings"] {
 .custom-home-header {
     top: -3px !important;
 }
-/*
+
 .custom-settings-colorpicker-picker:before {
     content: "";
-    width: 40px !important;
-    height: 40px !important;
+    width: 42.5px !important;
+    height: 42.5px !important;
     position: absolute;
-    border: 5px solid var(--bg-color);
+    margin-top: -2.5px;
+    margin-left: -2.5px;
+    border: 6px solid var(--bg-color);
     border-radius: 10px;
     background: rgba(255, 26, 64, 0) !important;
 }
-
 .custom-settings-colorpicker-picker:after {
     content: "";
-    width: 40px !important;
-    height: 40px !important;
+    width: 42.5px !important;
+    height: 42.5px !important;
     position: absolute;
-    margin-top: -47.5px;
-    margin-left: 2.5px;
-    border: 2px solid rgba(0, 0, 0, 0.4);
-    border-radius: 7.5px;
+    margin-top: -48.5px;
+    margin-left: 1.25px;
+    border-radius: 6px;
     background: rgba(255, 26, 64, 0) !important;
+    border: 2px solid var(--accent-color);
+    opacity: 0.2;
 }
-*/
