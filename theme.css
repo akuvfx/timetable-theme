@@ -52,21 +52,32 @@ a[href="/settings"] {
     margin-bottom: 10px !important;
 }
 
+.custom-home-daypicker-main {
+    display: block !important;
+}
+
 .custom-home-daypicker-switcher {
-    position: relative;
-    left: -10px;
+    width: 230px !important;
+    display: grid !important;
+    grid-template-columns: 50px 130px 50px;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
-.custom-home-daypicker-switcher .custom-home-daypicker-arrow {
-    width: 48px !important;
+
+.custom-home-daypicker-arrow {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 50px !important;
 }
+
 .date-container {
     width: 130px !important;
+    display: inline-block !important;
 }
 
-.date-container .date {
-    opacity: 0.8;
+.custom-home-daypicker-btn {
+    padding: 0 !important;
 }
-
 
 .custom-footer-navigation {
     right: 0 !important;
