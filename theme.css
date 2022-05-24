@@ -22,7 +22,7 @@
 
 .custom-home-header:after {
     content: "☰";
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 100;
 }
 
@@ -66,7 +66,7 @@ a[href="/settings"] {
 
 .custom-footer-navigation {
     right: 0 !important;
-    font-size: 26px !important;
+    font-size: 24px !important;
 }
 
 .custom-settings-option-name,
@@ -127,7 +127,7 @@ a[href="/settings"] {
     border: 1px solid rgba(255, 26, 64, .5) !important;
     background: rgba(255, 26, 64, .2) !important;
 }
-
+/*
 .custom-settings-colorpicker-picker:before {
     content: "";
     width: 40px !important;
@@ -149,3 +149,4 @@ a[href="/settings"] {
     border-radius: 7.5px;
     background: rgba(255, 26, 64, 0) !important;
 }
+*/
