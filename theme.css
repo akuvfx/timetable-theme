@@ -56,12 +56,12 @@ a[href="/settings"] {
     display: grid !important;
     grid-template-columns: 50px 130px 50px !important;
     width: 230px !important;
-    position: relative;
-    left: -20px;
+    /*position: relative;
+    left: 0;*/
 }
 
 .date-container {
-    width: 230px !important;
+    width: 130px !important;
     display: block !important;
 }
 
