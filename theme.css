@@ -167,5 +167,6 @@ a[href="/settings"] {
     border-radius: 6px;
     background: rgba(255, 26, 64, 0) !important;
     border: 2px solid var(--accent-color);
-    opacity: 0.2;
+    opacity: 0.75;
+    filter: brightness(0.6) contrast(1.2) saturate(0.5);
 }
