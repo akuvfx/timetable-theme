@@ -1,6 +1,6 @@
 @import url(https://akuvfx.github.io/timetable-theme/nexa.css);
 
-body {
+.date-container .date {
     font-family: 'Nexa', sans-serif !important;
 }
 
